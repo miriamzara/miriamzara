@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miriamzara. I am currently pursuing a master degree in Physics at University of Padua, Italy.
+- 👋 Hi, I’m @miriamzara. I am currently pursuing a master degree in Physics and Data Science at University of Padua, Italy.
 - 👀 I’m mainly interested in complex systems, statistical and biological physics
 - 📫 How to reach me: my institutional email address is miriam.zara@studenti.unipd.it, my personal email address is miriam.zara.2001@gmail.com
 
